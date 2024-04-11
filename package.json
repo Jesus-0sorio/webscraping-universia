@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "xlsx-populate": "^1.21.0"
+  },
+  "type": "module",
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ./script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
